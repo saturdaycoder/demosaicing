@@ -1,2 +1,3 @@
 *.ppm
 *.pgm
+.ipynb_checkpoints
